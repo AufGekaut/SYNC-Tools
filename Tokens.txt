@@ -1,0 +1,9 @@
+paste your tokens like this:
+
+TOKEN 1
+TOKEN 2
+TOKEN 3
+TOKEN 4
+
+
+DELETE ALL THIS
